@@ -40,7 +40,7 @@ app.add_middleware(
     allow_origins=origins,
     allow_origin_regex=r"https://[a-zA-Z0-9-]+\.vercel\.app",
     allow_credentials=True,
-    allow_methods=["*"],
+    allow_methods=["*"],899999906y89-
     allow_headers=["*"],
 )
 
